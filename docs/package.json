@@ -1,0 +1,19 @@
+{
+  "name": "SILICON NINJAA&#39;s Documentation",
+  "version": "0.0.1",
+  "description": "a static site generator for vue.js",
+  "main": "index.js",
+  "authors": {
+    "name": "Silicon Ninjaa",
+    "email": "silicon.ninjaa@gmail.com"
+  },
+  "repository": "Ninjaa Docs/SILICON NINJAA&#39;s Documentation",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
